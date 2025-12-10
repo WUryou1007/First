@@ -1,0 +1,12 @@
+body{font: 100;line-height: 300%;text-align: center;margin-bottom: 150px;color: azure;}
+/*大まかなスタイル*/
+
+h3{border-top: 0.5px azure dotted;margin-top: 75px;}
+
+body {
+  background-image: url('./Futuristic\ tech-themed\ abstract\ background\ for\ a\ portfolio\ website\,\ dark\ mode\ style\,\ neon\ blue\ and\ p.jpeg'); /* 生成した画像のURLに置き換え */
+  background-size: cover;       /* 画面全体にフィット */
+  background-position: center;  /* 中央に配置 */
+  background-repeat: no-repeat; /* 繰り返しなし */
+}
+
