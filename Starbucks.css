@@ -1,0 +1,6 @@
+body{background-image: url('Interior\ of\ a\ Starbu.png'); /* 生成した画像のURLに置き換え */
+  background-size: cover;       /* 画面全体にフィット */
+  /*background-position: center;  /* 中央に配置 */
+  background-repeat: no-repeat; /* 繰り返しなし */color: azure;line-height: 50px;
+  text-align: center;}
+header{font-size: 25px;}
